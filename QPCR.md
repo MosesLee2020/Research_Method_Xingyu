@@ -56,6 +56,6 @@ If the FC < 1, the target gene is interpreted as down-regulation.
 2) The inhibitor produced gene-specific effects. Four loci (with base number of 2), which were ***opt (0.42-fold)***, ***pitx (0.16-fold)***,  ***SM30 (0.39-fold)*** and ***sm50 (0.31-fold)***, were strongly repressed. A second tier ( ***gcm, pak3 and synB***) showed moderate down-regulation, whereas ***ascs, Delta, ets, foxA, pak4 and soxC*** remained essentially unchanged (0.8–1.2 fold). Only one gene, ***NGN***, exhibited appreciable up-regulation, rising to 1.34-fold over basal expression.
 3) The current data derive from single technical measurements, while, biological triplicates will be required to attach confidence intervals of these trends.
 
-update
+
 # References
 Livak, K. J., & Schmittgen, T. D. (2001). Analysis of relative gene expression data using real-time quantitative pcr and the 2(-delta delta c(t)) method. Methods, 25(4), 402–408. https://doi.org/10.1006/METH.2001.1262
