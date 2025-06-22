@@ -22,7 +22,8 @@ If the FC < 1, the target gene is interpreted as down-regulation.
 
 # Results and analysis
 
-Table 1.
+**Table 1.** Relative gene expression calculated by the ΔΔCt method (qPCR).
+
 |           Cycle Threshold (Ct)          |         |             |        |        |         |        |         |        |        |        |        |        |        |         |        |
 |:---------------------------------------:|:-------:|:-----------:|:------:|:------:|:-------:|:------:|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:------:|
 |                                         | Tubulin |     ascs    |  Delta |   ets  |   foxA  |   gcm  |   NGN   |   opt  |  pak3  |  pak4  |  pitx  |  SM30  |  sm50  |   soxC  |  synB  |
@@ -46,7 +47,7 @@ Table 1.
 *Since the efficiency of PCR runs differs in different instrument and lab, I presented here two cases of the 100% efficiency (with base number of 2), and ≈90% efficiency (with base number of 1.9 generally used in Smadar's lab).
 
 ![qPCR bar plot](Picture1.png)
-
+**Figure 1.** qPCR bar plot of relative gene expression.
 
 # Discussion
 1) The reference gene, *Tubulin* Ct decreased from 23.30 (control) to 22.72 (treatment) after trreatment, which marks around 1.5 fold drift.
