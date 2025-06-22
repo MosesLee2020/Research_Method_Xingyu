@@ -7,7 +7,7 @@ Firstly, the RNA should be isolated and reverse-transcribed into complementary D
 
 Equations for ΔΔCt method are listed as following:
 
-ΔCt (Delta Ct) = Ct<sub>target<sub> - Ct<sub>reference<sub>
+ΔCt (Delta Ct) = Ct<sub>target</sub> - Ct<sub>reference</sub>
 
 
 
