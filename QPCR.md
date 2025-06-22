@@ -45,6 +45,8 @@ Table 1.
 
 *Since the efficiency of PCR runs differs in different instrument and lab, I presented here two cases of the 100% efficiency (with base number of 2), and ≈90% efficiency (with base number of 1.9 generally used in Smadar's lab).
 
+![qPCR bar plot](Picture1.png)
+
 
 # Discussion
 1) The reference gene, *Tubulin* Ct decreased from 23.30 (control) to 22.72 (treatment) after trreatment, which marks around 1.5 fold drift.
