@@ -44,7 +44,9 @@ If the FC < 1, the target gene is interpreted as down-regulation.
 | Fold Change   (with base number of 2)   |         |    1.006    | 0.901  | 0.814  |  1.047  | 0.757  |  1.339  | 0.416  | 0.724  | 0.836  | 0.162  | 0.386  | 0.310  |  1.123  | 0.702  |
 | Fold Change   (with base number of 1.9) |         |    1.005    | 0.908  | 0.826  |  1.044  | 0.773  |  1.311  | 0.444  | 0.742  | 0.847  | 0.186  | 0.414  | 0.339  |  1.113  | 0.721  |
 
-*Since the efficiency of PCR runs differs in different instrument and lab, I presented here two cases of the 100% efficiency (with base number of 2), and ≈90% efficiency (with base number of 1.9 generally used in Smadar's lab).
+*Since the efficiency of PCR runs differs in different instrument and lab, I presented here two cases of the 100% efficiency (with base number of 2), and ≈90% efficiency (with base number of 1.9 generally used in Smadar's lab).*
+
+
 
 ![qPCR bar plot](Picture1.png)
 **Figure 1.** qPCR bar plot of relative gene expression.
