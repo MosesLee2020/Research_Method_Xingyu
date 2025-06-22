@@ -1,0 +1,8 @@
+Reserve transcription combined with the polyerase chain reaction (PCR) has been widely used as a powerful tool to quantify gene expression.
+
+Quantitative PCR (qPCR), which is also called real-time PCR, is a variant of the polymerase-chain-reaction in which the accumulation of amplified DNA is monitored during each cycle with a fluorescent signal.
+
+Firstly, the RNA should be isolated and reverse-transcribed into complementary DNA (cDNA), which will serve as the amplification template. Secondly, the template will run through three phases of qPCR, which 
+is Denaturation, Annealing and Elongation.
+
+The ΔΔCt method is a method of qPCR to estimate the relative expression change batween a target gene and a calibrator gene.
