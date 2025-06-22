@@ -1,16 +1,25 @@
+# Overview
 **Reserve transcription combined with the polyerase chain reaction (PCR) has been widely used as a powerful tool to quantify gene expression.**
 **Quantitative PCR (qPCR), which is also called real-time PCR, is a variant of the polymerase-chain-reaction in which the accumulation of amplified DNA is monitored during each cycle with a fluorescent signal.**
 
 Firstly, the RNA should be isolated and reverse-transcribed into complementary DNA (cDNA), which will serve as the amplification template. Secondly, the template will run through three phases of qPCR, which is Denaturation, Annealing and Elongation.
 
-**The ΔΔCt method is a method of qPCR to estimate the relative expression change batween a target gene and a calibrator gene.** *（livak and Schmittgen, 2001）* 
+#Methodology
+
+**The ΔΔCt method is a method of qPCR to estimate the relative expression change batween a target gene and a calibrator gene (control).** *（livak and Schmittgen, 2001）* 
 
 Equations for ΔΔCt method are listed as following:
 
-ΔCt (Delta Ct) = Ct<sub>target</sub> - Ct<sub>reference</sub>
+ΔCt  = Ct<sub>target</sub> - Ct<sub>reference</sub>
 
+ΔΔCt = Ct<sub>experimental</sub> - Ct<sub>control</sub>
 
+Fold Change (FC) = 2<sup>-ΔΔCt</sup>
 
+If the FC > 1, the target gene is interpreted as up-regulation. 
+If the FC < 1, the target gene is interpreted as down-regulation.
+
+# Results and analysis
 
 |           Cycle Threshold (Ct)          |         |             |        |        |         |        |         |        |        |        |        |        |        |         |        |
 |:---------------------------------------:|:-------:|:-----------:|:------:|:------:|:-------:|:------:|:-------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:------:|
@@ -31,3 +40,5 @@ Equations for ΔΔCt method are listed as following:
 |                                         |         |     ascs    |  Delta |   ets  |   foxA  |   gcm  |   NGN   |   opt  |  pak3  |  pak4  |  pitx  |  SM30  |  sm50  |   soxC  |  synB  |
 | Fold Change   (with base number of 2)   |         |    1.006    | 0.901  | 0.814  |  1.047  | 0.757  |  1.339  | 0.416  | 0.724  | 0.836  | 0.162  | 0.386  | 0.310  |  1.123  | 0.702  |
 | Fold Change   (with base number of 1.9) |         |    1.005    | 0.908  | 0.826  |  1.044  | 0.773  |  1.311  | 0.444  | 0.742  | 0.847  | 0.186  | 0.414  | 0.339  |  1.113  | 0.721  |
+
+
