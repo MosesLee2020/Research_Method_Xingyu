@@ -7,6 +7,7 @@ Firstly, the RNA should be isolated and reverse-transcribed into complementary D
 # Methodology
 
 **The ΔΔCt method is a method of qPCR to estimate the relative expression change batween a target gene and a calibrator gene (control).** *（livak and Schmittgen, 2001）* 
+
 **Cycle threshold (Ct) represents the cycle at which fluorescence surpasses a set threshold.**
 
 Equations for ΔΔCt method are listed as following:
