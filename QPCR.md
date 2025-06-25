@@ -49,7 +49,7 @@ If the FC < 1, the target gene is interpreted as down-regulation.
 
 
 
-![qPCR bar plot](Picture1.png)
+![qPCR bar plot](Figure/Picture1.png)
 **Figure 1.** qPCR bar plot of relative gene expression.
 
 # Discussion
