@@ -48,4 +48,4 @@ Field sampling will include at least three independent replicate samples per loc
 and flow cytometry runs to assess reproducibility and analytical precision. Overall, each cruise will aim to sample at least 1-2 frontal zones, resulting in a total of 36-72 subsamples.
 
 
-![QPCR bar plot](Gnatt_chart.png)
+![QPCR bar plot](Figure/Gnatt_chart.png)
