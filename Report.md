@@ -20,4 +20,6 @@ and in Case_2 is 0.02 Da and 0.02 Da, respectively.</p>
 
 # Results and Discussion</p>
 
+The Job page of Case_1 can be accessed by  https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=bc4e166768e74709b82c8123473a1ba8 </p>
+The Job page of Case_1 can be accessed by  https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=7d4e4eee2c5e4250984429bfd41841cd </p>
 
