@@ -1,6 +1,6 @@
 # Jod Parameters<br>
 
-## In *Case_1*, we set the parameters as following:<br>
+## In *Case_1*, I set the parameters as following:<br>
 
 **Basic Options:<br>**
 
@@ -41,7 +41,7 @@ Default<br>
 
 
 
-## In *Case_2*, we set the parameters as following:<br>
+## In *Case_2*, I set the parameters as following:<br>
 
 **Basic Options:<br>**
 
