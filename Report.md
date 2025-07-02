@@ -23,3 +23,17 @@ and in Case_2 is 0.02 Da and 0.02 Da, respectively.</p>
 The Job page of ***Case_1*** can be accessed by  https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=bc4e166768e74709b82c8123473a1ba8 </p>
 The Job page of ***Case_2*** can be accessed by  https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=7d4e4eee2c5e4250984429bfd41841cd </p>
 
+***Doxorubacin cluster family</p>***
+
+– Opened the **Network Viewer** (Figure 1) and configured:  
+     - **Node Labels:** LibraryID  
+     - **Node Size:** Parent Mass  
+     - **Node Color:** Spectral Count  
+     - **Edge Labels:** Δ m/z  
+    
+</p>
+![](Figure/0.01Da_index.png)
+Figure.1 GNPS molecular network of the doxorubicin family (***Case_1***). Edges labeled with Δm/z neutral‐loss annotations</p>
+
+![](Figure/0.02Da_index.png)
+Figure.2 GNPS molecular network of the doxorubicin family (***Case_2***). Edges labeled with Δm/z neutral‐loss annotations</p>
