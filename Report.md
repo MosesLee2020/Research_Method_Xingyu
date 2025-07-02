@@ -56,10 +56,10 @@ _________________________________________
 
 Moreover, Cosine Score Histogram of each case has been shown in Figure 5 and Figure 6:</p>
 
-![.](Figure/0.01Da_Cosine_Score.png)
+![.](Figure/0.01Da_Cosine_Score.png)<br>
 *Figure.5 Network Cosine Score Histogram (***Case_1***). </p>*
 _________________________________________
-![.](Figure/0.02Da_Cosine_Score.png)
+![.](Figure/0.02Da_Cosine_Score.png)<br>
 *Figure.5 Network Cosine Score Histogram (***Case_2***). </p>*
 _________________________________________
 
