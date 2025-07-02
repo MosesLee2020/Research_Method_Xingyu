@@ -25,16 +25,17 @@ The Job page of ***Case_2*** can be accessed by  https://gnps.ucsd.edu/ProteoSAF
 
 ***Doxorubacin cluster family</p>***
 
-– Opened the **Network Viewer** (Figure 1) and configured:  
+ **Network Viewer** are shown and configured:  
      - **Node Labels:** LibraryID  
      - **Node Size:** Parent Mass  
      - **Node Color:** Spectral Count  
      - **Edge Labels:** Δ m/z  
-    
+ in following Figures:
 </p>
 
 ![.](Figure/0.01Da_index.png)
 Figure.1 GNPS molecular network of the doxorubicin family (***Case_1***). Edges labeled with Δm/z neutral‐loss annotations</p>
-
+_________________________________________
 ![.](Figure/0.02Da_index.png)
 Figure.2 GNPS molecular network of the doxorubicin family (***Case_2***). Edges labeled with Δm/z neutral‐loss annotations</p>
+_________________________________________
