@@ -60,10 +60,14 @@ Moreover, Cosine Score Histogram of each case has been shown in Figure 5 and Fig
 *Figure.5 Network Cosine Score Histogram (***Case_1***). </p>*
 _________________________________________
 ![.](Figure/0.02Da_Cosine_Score.png)<br>
-*Figure.5 Network Cosine Score Histogram (***Case_2***). </p>*
+*Figure.6 Network Cosine Score Histogram (***Case_2***). </p>*
 _________________________________________
 
 ## Conclusions & Next Steps  
 1. The GNPS workflow successfully grouped doxorubicin-related spectra, annotated neutral losses, and quantified spectral similarity.  
-2. For deeper validation, additional  data could confirm adduct identities.  
-3. Future work will apply this pipeline to unknown clusters in the dataset to discover novel anthracycline derivatives.
+2. When the fragment‐ion tolerance has been loosen from 0.01 Da to 0.02 Da, the shape of this doxorubicin network stays largely the same, but the weakest, borderline edges creep in.
+3. The core anthracycline fragments that define the doxorubicin family line up so precisely in both ***Case_1*** and ***Case_2***. Those high‐cosine edges never vanish when tolerances have been changed, showing they’re real, reproducible links.
+4. It is important to select suitable tolerance for specific protocal/dataset/clusters.A well-chosen tolerance value maximizes specificity without sacrificing sensitivity.
+
+
+
