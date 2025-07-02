@@ -52,3 +52,8 @@ In addition, I have used the function of "EdgeAnnotation" to mark the "Putative 
 _________________________________________
 ![.](Figure/0.02Da_ID.png)
 *Figure.4 GNPS molecular network of the Doxorubacin family (***Case_2***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
+
+## Conclusions & Next Steps  
+1. The GNPS workflow successfully grouped doxorubicin-related spectra, annotated neutral losses, and quantified spectral similarity.  
+2. For deeper validation, additional  data could confirm adduct identities.  
+3. Future work will apply this pipeline to unknown clusters in the dataset to discover novel anthracycline derivatives.
