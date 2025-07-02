@@ -1,4 +1,5 @@
-# This report is built based on the tutorial of https://www.youtube.com/watch?v=s5y1XNKENbk.
+# Overview
+This report is built based on the tutorial of https://www.youtube.com/watch?v=s5y1XNKENbk.
 
 **In this report, we have developed and analyzed the LC-MS/MS data set of MSV000088759, which includes three sub-files:**
 
@@ -12,7 +13,7 @@ and Fragment Ion Mass Tolerance to discuss the how tolerance value affects resul
 
 In *Case 1*, we set the parameters as following:
 
-**<span style="font-size: 1.5rem;">Basic Options</span>**
+**<span style="font-size: 20px;">Basic Options</span>**
 
 Spectrum Files(Required):3 files are selected
 *MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_1.mzML
