@@ -2,7 +2,7 @@
 
 This report is built based on the tutorial of https://www.youtube.com/watch?v=s5y1XNKENbk.
 
-**In this report, we have developed and analyzed the LC-MS/MS data set of MSV000088759, which includes three sub-files:<br>**
+**In this report, we have processed and analyzed the LC-MS/MS data set of MSV000088759, which includes three sub-files:<br>**
 
 *MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_1.mzML<br>
  MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_2.mzML<br>
