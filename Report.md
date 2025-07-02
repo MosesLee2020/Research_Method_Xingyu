@@ -52,6 +52,7 @@ In addition, I have used the function of "EdgeAnnotation" to mark the "Putative 
 _________________________________________
 ![.](Figure/0.02Da_ID.png)
 *Figure.4 GNPS molecular network of the Doxorubacin family (***Case_2***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
+_________________________________________
 
 Moreover, Cosine Score Histogram of each case has been shown in Figure 5 and Figure 6:</p>
 
@@ -60,6 +61,7 @@ Moreover, Cosine Score Histogram of each case has been shown in Figure 5 and Fig
 _________________________________________
 ![.](Figure/0.02Da_Cosine_Score.png)
 *Figure.5 Network Cosine Score Histogram (***Case_2***). </p>*
+_________________________________________
 
 ## Conclusions & Next Steps  
 1. The GNPS workflow successfully grouped doxorubicin-related spectra, annotated neutral losses, and quantified spectral similarity.  
