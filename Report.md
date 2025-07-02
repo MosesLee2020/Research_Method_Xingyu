@@ -29,7 +29,7 @@ The Job page of ***Case_2*** can be accessed by  https://gnps.ucsd.edu/ProteoSAF
      - **Node Labels:** Cluster index  
      - **Node Size:** Parent Mass  
      - **Node Color:** Spectral Count  
-     - **Edge Labels:** Δ m/z  
+     - **Edge Labels:** Δ m/z  </p>
  in following Figures:
 </p>
 
