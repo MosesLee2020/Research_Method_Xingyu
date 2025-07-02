@@ -32,8 +32,8 @@ The Job page of ***Case_2*** can be accessed by  https://gnps.ucsd.edu/ProteoSAF
      - **Edge Labels:** Δ m/z  
     
 </p>
-![](Figure/0.01Da_index.png)
+![.](Figure/0.01Da_index.png)
 Figure.1 GNPS molecular network of the doxorubicin family (***Case_1***). Edges labeled with Δm/z neutral‐loss annotations</p>
 
-![](Figure/0.02Da_index.png)
+![.](Figure/0.02Da_index.png)
 Figure.2 GNPS molecular network of the doxorubicin family (***Case_2***). Edges labeled with Δm/z neutral‐loss annotations</p>
