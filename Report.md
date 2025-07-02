@@ -53,6 +53,14 @@ _________________________________________
 ![.](Figure/0.02Da_ID.png)
 *Figure.4 GNPS molecular network of the Doxorubacin family (***Case_2***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
 
+Moreover, Cosine Score Histogram of each case has been shown in Figure 5 and Figure 6:</p>
+
+![.](Figure/0.01Da_Cosine_Score.png)
+*Figure.5 Network Cosine Score Histogram (***Case_1***). </p>*
+_________________________________________
+![.](Figure/0.02Da_Cosine_Score.png)
+*Figure.5 Network Cosine Score Histogram (***Case_2***). </p>*
+
 ## Conclusions & Next Steps  
 1. The GNPS workflow successfully grouped doxorubicin-related spectra, annotated neutral losses, and quantified spectral similarity.  
 2. For deeper validation, additional  data could confirm adduct identities.  
