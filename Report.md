@@ -14,7 +14,7 @@ and Fragment Ion Mass Tolerance to discuss the how tolerance value affects resul
 
 As shown in the https://github.com/MosesLee2020/Research_Method_Xingyu/blob/GNPS_(Molecular_Networking)/Job_Parameters%20in%20Case_1%20and%20Case_2.md#in-case_2-we-set-the-parameters-as-following<br>
 
-The main difference between Case_1 and Case_2 is: *Precursor Ion Mass Tolerance* and *Fragment Ion Mass Tolerance*,<br>
+The main difference between ***Case_1*** and ***Case_2*** is: *Precursor Ion Mass Tolerance* and *Fragment Ion Mass Tolerance*,<br>
 Which in Case_1 is 0.01 Da and 0.01 Da, respectively<br>
 and in Case_2 is 0.02 Da and 0.02 Da, respectively.</p>
 
