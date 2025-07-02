@@ -12,7 +12,9 @@ This report is built based on the tutorial of https://www.youtube.com/watch?v=s5
 We explored the molecular networking of a special molecular cluster :**Doxorubacin** and use different Precursor Ion Mass Tolerance 
 and Fragment Ion Mass Tolerance to discuss the how tolerance value affects results.
 
-In *Case 1*, we set the parameters as following:
+# Jod Parameters<br>
+
+## In *Case 1*, we set the parameters as following:<br>
 
 **Basic Options<br>**
 
