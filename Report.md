@@ -14,41 +14,41 @@ and Fragment Ion Mass Tolerance to discuss the how tolerance value affects resul
 
 In *Case 1*, we set the parameters as following:
 
-**<span style="font-size: 20px;">Basic Options</span>**
+**Basic Options<br>**
 
-Spectrum Files(Required):3 files are selected
-*MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_1.mzML
- MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_2.mzML
- MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_3.mzML*
+Spectrum Files(Required):3 files are selected<br>
+*MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_1.mzML<br>
+ MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_2.mzML<br>
+ MSV000088759/peak/5ugmL_Opti_NCE_stepped20-30-40_3.mzML<br>*
 
-Precursor Ion Mass Tolerance: 0.02 Da
-Fragment Ion Mass Tolerance: 0.02 Da
-Other:Default
+Precursor Ion Mass Tolerance: 0.02 Da<br>
+Fragment Ion Mass Tolerance: 0.02 Da<br>
+Other:Default<br>
 __________________________________________________________________________________________
-**Advanced Network Options**
-Minimum Cosine Score: 0.7
-Network TopK: 10
-Maximum Connected Component Size:100
-Minimum Matched Fragment Ions: 6
-Minimum Cluster Size:2
-Maximum shift:1999 Da
-Other:Default
+**Advanced Network Options<br>**
+Minimum Cosine Score: 0.7<br>
+Network TopK: 10<br>
+Maximum Connected Component Size:100<br>
+Minimum Matched Fragment Ions: 6<br>
+Minimum Cluster Size:2<br>
+Maximum shift:1999 Da<br>
+Other:Default<br>
 __________________________________________________________________________________________
-**Advanced Library Search Options**
-Library Search Min Matched Peaks: 6
-Score Threshold: 0.7
-Maximum aNALOG sEARCH mASS dIFFERENCE: 100
-Other:Default
+**Advanced Library Search Options<br>**
+Library Search Min Matched Peaks: 6<br>
+Score Threshold: 0.7v
+Maximum aNALOG sEARCH mASS dIFFERENCE: 100<br>
+Other:Default<br>
 __________________________________________________________________________________________
-**Advanced Filtering Options**
-Filter below Std Dev: 0.0
-Minimum Peak Intensity: 0.0
-Other:Default
+**Advanced Filtering Options<br>**
+Filter below Std Dev: 0.0<br>
+Minimum Peak Intensity: 0.0<br>
+Other:Default<br>
 __________________________________________________________________________________________
-**Advanced GNPS Repository Search Options**
-Default
+**Advanced GNPS Repository Search Options<br>**
+Default<br>
 __________________________________________________________________________________________
-**Advanced Output Options**
-Default
+**Advanced Output Options<br>**
+Default<br>
 
 
