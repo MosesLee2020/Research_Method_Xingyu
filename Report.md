@@ -34,10 +34,10 @@ The Job page of ***Case_2*** can be accessed by  https://gnps.ucsd.edu/ProteoSAF
 </p>
 
 ![.](Figure/0.01Da_index.png)
-*Figure.1 GNPS molecular network of the doxorubicin family (***Case_1***). Nodes marked by cluster index; edges labeled with Δm/z.</p>*
+*Figure.1 GNPS molecular network of the Doxorubacin family (***Case_1***). Nodes marked by cluster index; edges labeled with Δm/z.</p>*
 _________________________________________
 ![.](Figure/0.02Da_index.png)
-*Figure.2 GNPS molecular network of the doxorubicin family (***Case_2***). Nodes marked by cluster index; edges labeled with Δm/z.</p>*
+*Figure.2 GNPS molecular network of the Doxorubacin family (***Case_2***). Nodes marked by cluster index; edges labeled with Δm/z.</p>*
 _________________________________________
 In addition, I have used the function of "EdgeAnnotation" to mark the "Putative Neutral Loss" and then calculaate the aligned spectrum, which is 0.84 in both ***Case_1*** and ****Case_2***.</p>
 **Network Viewer** are shown and configured:  
@@ -48,7 +48,7 @@ In addition, I have used the function of "EdgeAnnotation" to mark the "Putative 
  in following Figures:
 
 ![.](Figure/0.01Da_ID.png)
-*Figure.3 GNPS molecular network of the doxorubicin family (***Case_1***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
+*Figure.3 GNPS molecular network of the Doxorubacin family (***Case_1***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
 _________________________________________
 ![.](Figure/0.02Da_ID.png)
-*Figure.4 GNPS molecular network of the doxorubicin family (***Case_2***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
+*Figure.4 GNPS molecular network of the Doxorubacin family (***Case_2***).Nodes marked by LibraryID; edges labeled with neutral‐loss annotations </p>*
